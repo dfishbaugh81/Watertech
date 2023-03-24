@@ -1,0 +1,26 @@
+{
+  "id": "395c14e0-e049-41c8-a8ce-3f75eb0034bb",
+  "name": "Watertech Mods",
+  "publisher": "Impact Networking",
+  "version": "2.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.impactmybiz.com/",
+  "logo": "ImpactLogo.jfif",
+  "dependencies": [{"id": "2ddb6ef0-fec0-45d2-8571-e33ff9ff89a0", "name": "Contract Management", "publisher": "BCS Itera", "version": "15.3.21055.0"}
+                  ,{"id": "dc39922c-2c83-4020-a524-ad8121a5281a","publisher": "BCS Itera AS","name": "SalesInvoiceReport","version": "18.0.21307.0"}],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50170
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Watertech.com/help/",
+  "runtime": "8.0"
+}
